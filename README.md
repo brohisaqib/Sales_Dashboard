@@ -43,4 +43,4 @@ A visually rich dashboard was created using Power BI to display:
 
 📂 The dataset was downloaded from [Kaggle](https://www.kaggle.com/)
 
-![Dashboard](Screenshots/dashboard)
+![Dashboard](deshboard.png)
